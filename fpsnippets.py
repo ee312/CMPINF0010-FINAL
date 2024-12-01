@@ -1,4 +1,3 @@
-import geopandas
 import pandas as pd
 
 # Load tracts
