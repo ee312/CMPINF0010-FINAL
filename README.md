@@ -12,6 +12,8 @@ Datasets Used:
 * [Fire Incidents in City of Pittsburgh](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh)
     * A dataset detailing all the fires in Allegheny County. The dataset includes location, alarm type, and type of incident involved.
 * [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data)
-    * A dataset detailing the arrests in Allegheny County. The dataset includes data points such as time of arrest, demographic information about the criminal, as well as the geographic location and crime involved. 
+    * A dataset detailing the arrests in Allegheny County. The dataset includes data points such as time of arrest, demographic information about the criminal, as well as the geographic location and crime involved.
+ 
+The Mission: Determine the best neighborhood in Pittsburgh based on the metrics of our choosing (listed above). 
 
 
